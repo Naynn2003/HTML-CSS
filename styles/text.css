@@ -1,0 +1,47 @@
+p{
+  font-family: Roboto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.title{
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 25px; 
+  margin-bottom: 5px;
+}
+.stats{
+  font-size: 14px;
+  color: rgb(96, 96, 81);
+
+  margin-bottom: 20px;
+}
+.author{
+
+  font-size: 14px;
+  color: rgb(96, 96, 81);
+
+  margin-bottom: 20px;
+}
+.content{
+  
+  font-size: 14px;
+  width: 280px;
+  color: rgb(96, 96, 81);
+
+  line-height: 20px;
+  margin-bottom: 100PX;
+
+}
+.apple{
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(227,65,64);
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+.span-element-for-shop-link:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}

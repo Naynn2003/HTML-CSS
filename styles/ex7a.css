@@ -1,0 +1,17 @@
+.img{
+  width: 200px;
+  border-radius: 10px;
+}
+.img1{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;      
+}
+.img2{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: center;
+}

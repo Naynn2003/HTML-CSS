@@ -1,0 +1,193 @@
+.uber {
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 2px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: opacity 0.21s;
+}
+.uber:hover {
+  opacity: 0.8;
+}
+.uber:active {
+  opacity: 0.4;
+}
+
+.amazon {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 2px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background-color 0.2s, opacity 0.2s;
+}
+.amazon:hover {
+  background-color: rgb(255, 212, 20);
+  opacity: 1;
+}
+.amazon:active {
+  opacity: 0.5;
+}
+
+.github {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 2px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: box-shadow 0.15s, opacity 0.15s;
+}
+
+.github:hover {
+  opacity: 0.8;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.github:active {
+  opacity: 1;
+}
+
+.bs {
+  background-color: rgb(121 82 125);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 2px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 7px;
+  transition: background-color 0.15s, opacity 0.15s;
+}
+.bs:hover {
+  background-color: rgb(108, 59, 113);
+  opacity: 1;
+}
+.bs:active {
+  opacity: 0.8;
+}
+
+.Download {
+  background-color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 2px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.15s, color 0.2s;
+}
+.Download:hover {
+  background-color: gray;
+  color: white;
+}
+.Download:active {
+  opacity: 0.8;
+}
+
+.np {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 2px;
+  border-radius: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 10px;
+  transition: background-color 0.15s, opacity 0.2s;
+}
+.np:hover {
+  background-color: rgb(3, 81, 159);
+}
+.np:active {
+  opacity: 0.8;
+}
+
+.pn {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 2px;
+  border-radius: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s, border-width 0.1s;
+}
+.pn:hover {
+  background-color: rgb(186, 221, 255);
+  border-width: 2.5px;
+}
+.pn:active {
+  opacity: 0.8;
+}
+
+.atc {
+  background: rgb(255 216 20);
+  font-weight: bold;
+  padding-top: 7px;
+  padding-bottom: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 2px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-right: 9px;
+  transition: background-color 0.15s, opacity 0.15s;
+}
+.atc:hover {
+  background-color: rgb(218, 175, 0);
+}
+.atc:active {
+  opacity: 0.8;
+}
+
+.bn {
+  background-color: rgb(255 164 28);
+  font-weight: bold;
+  padding-top: 7px;
+  padding-bottom: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background-color 0.15s, opacity 0.15s;
+}
+.bn:hover {
+  background-color: rgb(255, 142, 28);
+}
+.bn:active {
+  opacity: 0.8;
+}
+
+.a {
+  color: rgb(0 113 133);
+}
+.a:hover {
+  color: red;
+}
